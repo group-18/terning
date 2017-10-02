@@ -13,3 +13,5 @@ _Terning-programmet_ skal kunne vise udfaldet fra _n_-antal terningekast. Progra
 ## Purpose
 This is an exercise in using _GIT_ to fix errors and trace the changes.
 
+## Found bugs
+1. Den kaster en gang mindre end skrevet.
