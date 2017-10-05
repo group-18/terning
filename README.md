@@ -11,7 +11,7 @@ _Terning-programmet_ skal kunne vise udfaldet fra _n_-antal terningekast. Progra
 3. Terningen skal være _ærlig_. Dvs. at ved eksempelvis 60.000 kast, så skal hvert udfald være repræsenteret 10.000 gange ( -+ 400).
 
 ## Formål
-This is an exercise in using _GIT_ to fix errors and trace the changes.
+Formålet med dette projekt er, at gør brug af _GIT_ til fejlfinding af bugs.
 
 ## Fundne fejl
 Ingen fundne fejl på nuværende tidspunkt.
