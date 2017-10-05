@@ -18,7 +18,7 @@ public class Dice {
 	
 	// roll the die n times and print the values
 	public void rollMultiple(int n) {
-		for (int i=1; i<n; i++) {
+		for (int i=1; i<=n; i++) {
 			System.out.print(roll() + " ");
 		}		
 	}
